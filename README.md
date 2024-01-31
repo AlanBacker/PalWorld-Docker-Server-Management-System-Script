@@ -1,4 +1,4 @@
-#  PalWorld Docker Server Management System Script
+#  Palworld Docker Server Management System Script
 #  幻兽帕鲁Docker服务器管理系统脚本
 #  Palworld Dockerサーバー管理システムスクリプト
 This script was created by AlanBacker and currently only works on Debian distributions. 这个脚本由AlanBacker创建，目前仅适用于Debian发行版本。このスクリプトはAlanBackerによって作成され、現在はDebianディストリビューションにのみ対応しています。
@@ -47,7 +47,7 @@ The author of this script is not responsible for any direct or indirect damage c
 **Note: This is the English version of the README.**
 
 
-# PalWorld Docker 服务器管理系统
+# Palworld Docker 服务器管理系统
 
 这是一个由 AlanBacker 创建的 PalWorld 服务器管理脚本，专门用于 Debian 服务器平台。
 

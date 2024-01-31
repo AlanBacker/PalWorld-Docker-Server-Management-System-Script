@@ -100,7 +100,7 @@ The author of this script is not responsible for any direct or indirect damage c
 
 **注意：这是中文版本的 README。**
 
-# PalWorld Dockerサーバー管理システム
+# Palworld Dockerサーバー管理システム
 
 このPalWorldサーバー管理スクリプトはAlanBackerによって作成され、Debianサーバープラットフォーム専用に設計されています。
 

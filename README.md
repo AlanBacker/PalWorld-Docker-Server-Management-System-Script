@@ -66,9 +66,9 @@ The author of this script is not responsible for any direct or indirect damage c
 ## 注意事项
 
 - 使用本脚本前请确保你有足够的 Docker 和 Linux 知识。
-- 如果你在中国大陆，并且没有良好的网络环境（如高速访问外网，请修改脚本中第55行为docker pull docker.mirrors.sjtug.sjtu.edu.cn/kagurazakanyaa/palworld  注意隔行！，
+- 如果你在中国大陆，并且没有良好的网络环境（如高速访问外网，请修改脚本中第55行为`docker pull docker.mirrors.sjtug.sjtu.edu.cn/kagurazakanyaa/palworld`  注意隔行！，
   如图：![image](https://github.com/AlanBacker/AlanBacker-PalWorld-Docker-Server-Management-System-Script/assets/53960149/80c6b83b-e95b-4885-8f71-7f3612bad125)
-- 以及第97行为if docker pull docker.mirrors.sjtug.sjtu.edu.cn/kagurazakanyaa/palworld | grep -q 'Downloaded newer image'; then
+- 以及第97行为`if docker pull docker.mirrors.sjtug.sjtu.edu.cn/kagurazakanyaa/palworld | grep -q 'Downloaded newer image'; then`
   如图：![image](https://github.com/AlanBacker/AlanBacker-PalWorld-Docker-Server-Management-System-Script/assets/53960149/8403e9b1-229f-46ae-821d-49e5ff3e0a97)
 ）
 - 在执行任何操作前，务必备份你的数据。
